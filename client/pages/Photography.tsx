@@ -8,21 +8,6 @@ import park from "../../park.jpg";
 import gents from "../../gents.jpg";
 
 
-const photoCategories = [
-  {
-    title: "Nature & Landscapes",
-    description:
-      "Capturing the beauty of nature and environments.",
-    count: 24,
-    coverImage: "/placeholder.svg",
-  },
-  {
-    title: "Cars",
-    description: "",
-    count: 18,
-    coverImage: "/placeholder.svg",
-  },
-];
 
 const featuredPhotos = [
   {
