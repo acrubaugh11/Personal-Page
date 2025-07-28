@@ -11,7 +11,7 @@ const blogPosts = [
       "A personal opinion on the impact of growing up overseas and the affect it's had on my life.",
     date: "2025-7-10",
     readTime: "10 min read",
-    category: "Life / Travel",
+    category: "Life/Travel",
     link: "/blog/overseas"
   },
 ];
@@ -51,7 +51,7 @@ This is my personal blog, where I share experiences, thoughts, and ideas on tech
                   <span className="px-3 py-1 bg-white text-black rounded-full text-xs font-medium">
                     {post.category}
                   </span>
-                  <div className="flex items-center gap-1">
+                  <div className="flex items-center gap-3">
                     <Calendar size={14} />
                     {new Date(post.date).toLocaleDateString("en-US", {
                       year: "numeric",
@@ -59,7 +59,7 @@ This is my personal blog, where I share experiences, thoughts, and ideas on tech
                       day: "numeric",
                     })}
                   </div>
-                  <div className="flex items-center gap-1">
+                  <div className="flex items-center gap-3">
                     <Clock size={14} />
                     {post.readTime}
                   </div>
