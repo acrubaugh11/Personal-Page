@@ -26,7 +26,7 @@ const ProjectCard = ({
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.1, delay: 0 }}
       whileHover={{ y: -8 }}
-      className="group bg-card border border-blue-300 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300"
+      className="group bg-card border border-blue-600 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300"
     >
       <div className="aspect-video bg-muted overflow-hidden">
         {image ? (
