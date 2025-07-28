@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 import { MapPin } from "lucide-react";
 import Navigation from "@/components/Navigation";
-import flower from "../../flower.jpg";
+import flower from "../flower.jpg";
 import { useState } from "react";
-import lily from "../../lil.jpg";
-import park from "../../park.jpg";
-import gents from "../../gents.jpg";
+import lily from "../lil.jpg";
+import park from "../park.jpg";
+import gents from "../gents.jpg";
 
 
 

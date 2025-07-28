@@ -1,6 +1,6 @@
 // app/resume/page.tsx
 
-import res from "../../res.png";
+import res from "../res.png";
 
 export default function ResumePage() {
   return (

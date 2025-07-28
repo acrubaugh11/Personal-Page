@@ -2,16 +2,16 @@ import { motion } from "framer-motion";
 import { ArrowRight, Download, Facebook, Github, Linkedin } from "lucide-react";
 import Navigation from "@/components/Navigation";
 import ProjectCard from "@/components/ProjectCard";
-import flower from '../../flower.jpg';
-import a3 from '../../snip.png';
-import gart from "../../gart.png";
-import moon from "../../moon.png";
-import logo from "../../campus-map.png";
-import balloon from "../../balloon.jpg";
-import cloudy from "../../cloudy.jpeg";
-import bng from "../../bng.png";
-import clock from "../../clock.jpg";
-import car from "../../car.png";
+import flower from '../flower.jpg';
+import a3 from '../snip.png';
+import gart from "../gart.png";
+import moon from "../moon.png";
+import logo from "../campus-map.png";
+import balloon from "../balloon.jpg";
+import cloudy from "../cloudy.jpeg";
+import bng from "../bng.png";
+import clock from "../clock.jpg";
+import car from "../car.png";
 
 
 const featuredProjects = [

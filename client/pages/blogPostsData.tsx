@@ -20,8 +20,6 @@ const blogPosts: BlogPost[] = [
     content: `
 
 
-## The Truth of Growing Up Overseas. Growing  up overseas has shaped who I am today in countless ways.
-
     `,
   },
 
