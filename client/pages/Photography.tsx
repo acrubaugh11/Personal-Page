@@ -11,7 +11,7 @@ import gents from "../../gents.jpg";
 
 const featuredPhotos = [
   {
-    title: "Flower Garden",
+    title: "Flower Gardens",
     location: "Greensboro, NC",
     date: "2025-06-11",
     image: flower,
