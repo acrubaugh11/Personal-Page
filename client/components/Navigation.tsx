@@ -67,7 +67,7 @@ const Navigation = () => {
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: "auto" }}
             exit={{ opacity: 0, height: 0 }}
-            className="md:hidden bg-background border-b border-border"
+            className="md:hidden bg-black border-b border-border"
           >
             <div className="px-4 py-2 space-y-1">
               {navItems.map((item) => (
@@ -77,8 +77,8 @@ const Navigation = () => {
                   onClick={() => setIsOpen(false)}
                   className={`block px-3 py-2 text-base font-medium transition-colors ${
                     isActive(item.path)
-                      ? "text-primary bg-primary/10"
-                      : "text-muted-foreground hover:text-foreground hover:bg-muted"
+                      ? "text-white border border-gray-800 bg-gray-900 rounded-md"
+                      : "text-muted-foreground hover:text-foreground hover:bg-muted rounded-md"
                   }`}
                 >
                   {item.name}

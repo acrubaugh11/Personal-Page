@@ -116,7 +116,7 @@ export default function Index() {
           <img
             src={moon}
             alt="Alexander Crubaugh"
-            className="w-full h-full pt-10 object-fill opacity-100"
+            className="pt-40 md:w-full md:h-full md:pt-10 md:object-fill opacity-100"
             // style={{
             //   filter: "hue-rotate(50deg) saturate(0.5) brightness(1)",
             // }}
