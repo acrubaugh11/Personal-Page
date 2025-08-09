@@ -12,17 +12,17 @@ import cloudy from "../cloudy.jpeg";
 import bng from "../bng.png";
 import clock from "../clock.jpg";
 import car from "../car.png";
-
+import cartoon from "../cartoon.png";
 
 const featuredProjects = [
   {
-    title: "Web Dev Business",
+    title: "Cartoonify",
     description:
-      "A3 Web Services, a web development business with a considerable portfolio of websites.",
-    technologies: ["React", "TypeScript"],
-    liveUrl: "https://fad-web-dev.vercel.app/",
-    githubUrl: "https://github.com/acrubaugh11/Fad-Web-Dev/tree/v3",
-    image: a3
+      "Using digital image processing to \"cartoonify\" an image. Uses median blur, adaptive thresholding, bilateral filter, and bitwise operations. The GUI is made using Tkinter.",
+    technologies: ["Python"],
+    liveUrl: "https://github.com/acrubaugh11/Cartoonify/tree/main",
+    githubUrl: "https://github.com/acrubaugh11/Cartoonify/tree/main",
+    image: cartoon
   },
   {
     title: "Image Classification",
@@ -32,6 +32,15 @@ const featuredProjects = [
     liveUrl: "https://github.com/acrubaugh11/Image_Classification",
     githubUrl: "https://github.com/acrubaugh11/Image_Classification",
     image: flower
+  },
+  {
+    title: "Web Dev Business",
+    description:
+      "A3 Web Services, a web development business with a considerable portfolio of websites.",
+    technologies: ["React", "TypeScript"],
+    liveUrl: "https://fad-web-dev.vercel.app/",
+    githubUrl: "https://github.com/acrubaugh11/Fad-Web-Dev/tree/v3",
+    image: a3
   },
     {
     title: "Geas Art",
