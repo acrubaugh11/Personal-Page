@@ -19,10 +19,10 @@ const blogPosts: BlogPost[] = [
     category: "Life / Travel",
     content: `
 
-\n
-I’ve chosen to write this piece as a reflection on the experiences I’ve had throughout the 18 years of my childhood, during which I had the privilege of growing up overseas across Africa.
 
-To begin with, a proper background and introduction are important.I’ve lived in four different countries across Africa: Guinea (Conakry), Dar es Salaam (Tanzania), Accra (Ghana), and Lusaka (Zambia). I spent between three to five years in each country, each during a different period of my life. The reason I lived in so many different countries is due to my father’s job with USAID, where employees often relocate to different posts across various locations. 
+I’ve chosen to write this piece as a reflection on the experiences I’ve had throughout my childhood, during which I had the privilege of growing up overseas across Africa.
+
+To begin with, a proper background and introduction are important. I’ve lived in four different countries across Africa: Guinea (Conakry), Dar es Salaam (Tanzania), Accra (Ghana), and Lusaka (Zambia). I spent between three to five years in each country, each during a different period of my life. The reason I lived in so many different countries is due to my father’s job, where employees often relocate to different posts across various locations. 
 
 From living across so many different countries I was able to meet and connect with very many different kinds of people, including those who were in similar positions to mine. In fact, the very motivation for this writing comes from a recent encounter from a very old friend who I once had grown up with in Accra (Ghana). After both moving apart and not having been in contact for a long time, it was not until we met once again much later that we got together to chat again. During our conversation it became apparent the similarities in thoughts we had towards growing up overseas. It was comforting to hear from someone in a similar situation, that I was not alone. So if you have also shared a similar experience, or perhaps are just interested, I hope this piece is able to convey some of the feelings from such experiences.
 
