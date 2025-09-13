@@ -88,4 +88,12 @@ export default {
     },
   },
   plugins: [require("tailwindcss-animate")],
+  corePlugins: {
+textIndent: true,
+  },
+  variants: {
+    extend: {
+      textIndent: ["first-line"],
+    },
+  },
 } satisfies Config;

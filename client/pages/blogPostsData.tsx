@@ -19,7 +19,7 @@ const blogPosts: BlogPost[] = [
     category: "Life / Travel",
     content: `
 
-
+\n
 I’ve chosen to write this piece as a reflection on the experiences I’ve had throughout the 18 years of my childhood, during which I had the privilege of growing up overseas across Africa.
 
 To begin with, a proper background and introduction are important.I’ve lived in four different countries across Africa: Guinea (Conakry), Dar es Salaam (Tanzania), Accra (Ghana), and Lusaka (Zambia). I spent between three to five years in each country, each during a different period of my life. The reason I lived in so many different countries is due to my father’s job with USAID, where employees often relocate to different posts across various locations. 

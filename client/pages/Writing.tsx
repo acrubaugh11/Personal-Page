@@ -44,7 +44,7 @@ export default function Writing() {
           </div>
         </div>
         <div
-          className="prose prose-invert max-w-none"
+          className="prose prose-invert max-w-none leading-relaxed space-y-6"
           dangerouslySetInnerHTML={{ __html: marked(post.content) }}
         />
       </div>

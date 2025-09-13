@@ -69,7 +69,7 @@ This is my personal blog, where I share experiences, thoughts, and ideas on tech
                   {post.title}
                 </h2>
 
-                <p className="text-muted-foreground leading-relaxed mb-4">
+                <p className="text-muted-foreground leading-relaxed mb-4 whitespace-pre-line">
                   {post.excerpt}
                 </p>
 
